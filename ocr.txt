@@ -1,118 +1,18 @@
-x) Pe oO
+eae
+G error - Google Search x | + Tian © Manage
+Home share View —_—~icture Tools
 
-oO
-2
+€ C OQ & googlecom/search. © Q@ *& O G ar
 
-EXPLORER,
+0
 
-BA
-ae itrelia ya
-@ README.md
-= requirements.txt
-Bae
-es
-a ae eu sl ey
-® findit.py
-¥ LICENSE.md
+Concur Links er
+Pin to Quick Copy Paste
 
-leans
-
-as
-
-Eee oces
-@ README.md
-= requirements.txt
+| access [a] Paste shortcut
 
  
 
-Pe)
-Eecoan
-Pat
-
-Pasa
-
- 
-
-ay
-
-ols) Sele Rec CRE RST CoM ele
-® finditpy * @ READMEmd Eee iceaienss nV a oo
-Ce rela
-
-19 self.screen width = self.root.winfo_screenwidth()
-
-20 Rn ee cage UM st ae Mea TOM CeN Uta)
-
-Px Sane Neer CMa ae TC ol Teas mCP st aeons Ce Lae facia a So a)
-
-Py) self.canvas.pack()
-
-Pe} self.zone = self.canvas.create_oval(20, 260, 35, 275, outline='black’, fill='white’)
-
-oy Pnge cost ien Ree en CMe CON Yo ae ee a PCL eel eT)
-
-Ph Sonat eee Meee UC on Cem em Menara O Pe aC CRN at One
-
-py #self.textwindow.attributes('-alpha’, 1)
-
-27 Peer we aes ear
-
-Pr kee ceo eee
-
-ye) self.zonex = @
-
-30 nee ee
-
-31 self.canvas.pack()
-
-32 Rone ccner adel tc Gers ae)
-
-33 Esue atta eat
-
-Evy self.root.attributes("-fullscreen", self.fullscreen)
-
-ES Pena coe Yi (Qed ace) ee MeTET Teel ete)
-
-36 Bsn geste Fi @hd ie ae eee) Fay aCe eae
-
-EY Romar Yi @bie eg ee MET ose iD ae eet an oy
-
-Et) self .root.bind('<F11>' ,self.take_screenshot) #Search in Screen
-
-39 self .root.mainloop()
-
-et)
-
-a Cera onabte Caetano ey
-
-7) self.zonex, self.zoney = event.x, event.y
-
-43 print('{}, {}'.format(self.zonex, self.zoney))
-
-on Cra ea er TNC Roor a LY Ltn eo)
-
-7) self.canvas.move(self.zone, self.zonex-current[0]-10, self.zoney-current[1]-10)
-
-46 nate NOM rie 10)
-
-ws
-
-48 Cergged aCe COE
-
-fe) te (1) ys ekeo\ om = NS
-
-Poa me aeRO COS
-arate tmee tae iget soe
-ener eens cures is
-Sess ae Reto
-Peper Re eens area ens}
-Grea eee See eto
-Searching on Screen: python
-
- 
-
- 
-    
  
 
  
@@ -125,4 +25,83 @@ Searching on Screen: python
 
  
 
-ae
+Open Select all
+x v|
+Edit Select none
+Move Copy Delete Rename New Properties
+eee ee History Gl invert selection
+
+to~ to folder
+Clipboard Organize New Open Select
+
+Google error e€ v 4 Dl > INLNS6594579A > Desktop > Desktop > Negi_2.0 > tkinter > vO) | Search tki.. 2
+
+a
+
+   
+
+SAP Managed Bookmarks @ Project Portal
+
+ 
+
+Apps
+
+oi Quick access
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+     
+
+  
+
+ 
+
+ 
+
+QaAl Gimages [Books EF Ces ®
+¥ Downloads aS
+About 3,84,00,00,000 results (0.53 sect @) Documents p<]
+I Pictures error bandw.png findltpy #cluster_cleanup_info <y
+10 | Adda topic Edit
+Dictionary _ volumes:
+Search for a word yen Number of Empty volumes 0, Emp
+screenshot.png volumes:
+‘@ OneDrive - SAP SE Number of Empty ELBs 0, Empty E
+error = Intn565945794 Lf @ jenkins APP 3:59 pm
+I'eral B3d Objects | file Edit Search View Encoding Language Settings Tools Macro Run Plugins Window 2 ey DSP-Deploy/PR_pod_delete #382
+Deskto * Status: SUCCESS (Open)
+See definitions in: . pocumens Ba a5 B| ®| | dh 4a | & & | OBB ~ a nom
+All Statistics Law Stoned [larangeps! 63 [jtestet EI Deleted: 0 error pods. 0 complete
+1 1 this central_integration_falcon
+noun 2 error Deleted: 0 error pods. 0 complete
+PInoy : this central_integration_hawk
+"spelling errors” 5 D Deleted: 0 error pods. 0 complete:
+~ | _. _. n n short-cluster-pool/pr-short-01,
+, Thi, si random text Deleted: 0 error pods. 0 complete:
+8 Peace short-cluster-pool/pr-short-02
+9 error Deleted: 0 error pods. 0 complete:
+10 error short-cluster-pool/pr-short-03
+dl Deleted: 0 error pods. 0 complete:
+12 this 1 short-cluster-pool/bvalidation302
+13 ) error pods. 1 complete:
+ley shori-cluster-pool/avalidation302
+
+ 
+
+ master* © Python 3.7.1 64-bit (base’: conda)
