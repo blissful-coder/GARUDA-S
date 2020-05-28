@@ -1,5 +1,5 @@
 # centre
-Acronym for  "searCh tExt iN mulTiple scREens". 
+Acronym for  "**Generic Application for Recognizing Unique Data Across Screens**" also **GARUDA-Search**
 
 When I am using multiple monitors and a lot of windows are open, I want to search a text. I know that text is available in screens which are open, but Alas!, there is no common search option to search in all the windows in all the screens.
 
