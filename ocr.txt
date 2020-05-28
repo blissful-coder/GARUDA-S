@@ -1,153 +1,118 @@
-ea
+x) Pe oO
 
-“= SAP Managed Bookmarks
-error
-
-bgle
-
-Qal
-
-About 4,
-
-Dictionary
-
-Search for a word
-
-4)
-
-See¢
-
-All
-
-ety
-Sian
-Python 3.7.1 64-bit (base’
-
-@ google.com/search...
-
-74 I = | tkinte
-poard Ue X | [™) Releases-dsp X | G error-Google ¥
-|e FS ore) vce
-
- 
-
- 
-
-Select all
-
-@aAax*
-
-@ Project Portal
-
- 
-
- 
-
- 
-
-& cut
-IN Copy path
-[2] Paste shortcut
-
- 
-
- 
-
-Gx
-
-Move Copy Delete Rename
-tov tov
-
-v| w ‘Open ~
-eat
-
-Properties
-
-Select none
-11 Conl pinto quick Copy Paste
-
-access EB invert selection
-
-history
-Open
-
-Kr
-
-Clipboard Organize Select
-
-< > © f J > INLNS6594579A > Desktop > Desktop > Negi2.0 > tkinter vO) | Search tk
-a
-
-oi Quick access
-
-I Desktop
-
-Downloads
-
-Documents
-
- 
-
- 
-
- 
-
-Images [] Book
-
- 
-
-16,00,00,000 results (0;
-
-\cluster_cleanup_info yy
-}10 | Add a topic
-
-Edit
-
-SUCCESS: AWS ELB&VOL CLEAN 119? h=--“ienkii
-Deploy/job/dsp.elb-delete/2147/ cea
-PLATFORM: AWS-GARDENER
-Number of Empty volumes 0, Empty volumes:
-PLATFORM: AWS-EKS
-Number of Empty volumes 0, Empty volumes:
-
-Number of Empty ELBs 0, Empty ELBs:
-
- 
-
-findltpy
-
-screenshot png
-
-© Pictures i?
-1D Gi-library
-
-TD Negi20
-
-. SAP_Sports_League
-
- tkinter
-@ OneDrive - SAP SE
-
-& INLNS6594579A,
-DD 30 Objects
-
-error
-
-Vere!
-
- 
-
-[ C\Users\i323878\Desktop\Desktop\Negi_2 0\tkinter\test.txt - Notepad++
-
-File Edit Search View Encoding Language Settings Tools Macro Run Plugins Window 2
-
-4 3 is Bl | dhe) & & | BES AAa ®|s
-
-atrange psi £9 E\testot EF
-
-1 this
+oO
 2
 
+EXPLORER,
+
+BA
+ae itrelia ya
+@ README.md
+= requirements.txt
+Bae
+es
+a ae eu sl ey
+® findit.py
+¥ LICENSE.md
+
+leans
+
+as
+
+Eee oces
+@ README.md
+= requirements.txt
+
+ 
+
+Pe)
+Eecoan
+Pat
+
+Pasa
+
+ 
+
+ay
+
+ols) Sele Rec CRE RST CoM ele
+® finditpy * @ READMEmd Eee iceaienss nV a oo
+Ce rela
+
+19 self.screen width = self.root.winfo_screenwidth()
+
+20 Rn ee cage UM st ae Mea TOM CeN Uta)
+
+Px Sane Neer CMa ae TC ol Teas mCP st aeons Ce Lae facia a So a)
+
+Py) self.canvas.pack()
+
+Pe} self.zone = self.canvas.create_oval(20, 260, 35, 275, outline='black’, fill='white’)
+
+oy Pnge cost ien Ree en CMe CON Yo ae ee a PCL eel eT)
+
+Ph Sonat eee Meee UC on Cem em Menara O Pe aC CRN at One
+
+py #self.textwindow.attributes('-alpha’, 1)
+
+27 Peer we aes ear
+
+Pr kee ceo eee
+
+ye) self.zonex = @
+
+30 nee ee
+
+31 self.canvas.pack()
+
+32 Rone ccner adel tc Gers ae)
+
+33 Esue atta eat
+
+Evy self.root.attributes("-fullscreen", self.fullscreen)
+
+ES Pena coe Yi (Qed ace) ee MeTET Teel ete)
+
+36 Bsn geste Fi @hd ie ae eee) Fay aCe eae
+
+EY Romar Yi @bie eg ee MET ose iD ae eet an oy
+
+Et) self .root.bind('<F11>' ,self.take_screenshot) #Search in Screen
+
+39 self .root.mainloop()
+
+et)
+
+a Cera onabte Caetano ey
+
+7) self.zonex, self.zoney = event.x, event.y
+
+43 print('{}, {}'.format(self.zonex, self.zoney))
+
+on Cra ea er TNC Roor a LY Ltn eo)
+
+7) self.canvas.move(self.zone, self.zonex-current[0]-10, self.zoney-current[1]-10)
+
+46 nate NOM rie 10)
+
+ws
+
+48 Cergged aCe COE
+
+fe) te (1) ys ekeo\ om = NS
+
+Poa me aeRO COS
+arate tmee tae iget soe
+ener eens cures is
+Sess ae Reto
+Peper Re eens area ens}
+Grea eee See eto
+Searching on Screen: python
+
+ 
+
+ 
+    
  
 
  
@@ -160,63 +125,4 @@ atrange psi £9 E\testot EF
 
  
 
- 
-
- 
-
-this
-
-D
-
-jenkins APP 11:00AM
-
-DSP-Deploy/PR_pod_delete #372
-Status: SUCCESS (Open)
-central_integration_eagle
-
-Deleted: 0 error pods. 0 completed pods.
-central_integration_falcon
-
-Deleted: 0 error pods. 0 completed pods.
-central_integration_hawk
-
-Deleted: 0 error pods. 0 completed pods.
-short-cluster-pool/pr-short-01
-
-Deleted: 2 error pods. 39 completed pods.
-short-cluster-pool/pr-short-02
-
-Deleted: 0 error pods. 0 completed pods.
-short-cluster-pool/pr-short-03
-
-Deleted: 0 error pods. 0 completed pods.
-short-cluster-pool/bvalidation3024
-Deleted: 0 error pods. 0 completed pods.
-short-cluster-pool/avalidation3024
-Deleted: 0 error pods. 0 completed pods.
-
- 
-
-error
-
- 
-
-3
-4
-Ey
-6 Thi si random text
-7
-8
-9
-
-error
-10 error
-11
-
-12 this
-
-eC Rer
-
- 
-
-Spaces:3 UTF-8 CRLF Python Domn ® QO
+ae

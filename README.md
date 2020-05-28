@@ -27,6 +27,19 @@ pip install requirements.txt
 
 I am using pytesseract for OCR. After pip install you'll need to [download](https://tesseract-ocr.github.io/tessdoc/Home.html) their binary based on your platform.
 
+### Usage
+
+`python findIt.py` will create a transparent canvas on top of all available windows. You can arrange the windows under it manually.
+
+Type the text you want to search in bottom right corner of the frame.
+
+Press `Ctrl + F` to toggle searchbar
+
+Press `F11` to take the screenshot
+
+Press `Esc` to toggle full-screen
+
+
 ## Built With
 
 * [tkinter](https://docs.python.org/3/library/tkinter.html) - Tk GUI Toolkit
@@ -52,4 +65,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* [stackoverflow](https://stackoverflow.com/)
+* [stackoverflow] (https://stackoverflow.com/)
