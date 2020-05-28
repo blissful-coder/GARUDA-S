@@ -1,9 +1,7 @@
 # centre
 Acronym for  "searCh tExt iN mulTiple scREens". 
 
-# Project Title
-
-When I am using multiple monitors and a lot of windows are open, I want to search a text. I know it is available in screens which are open, but Alas, there is no common search option to search in all the windows in all the screens.
+When I am using multiple monitors and a lot of windows are open, I want to search a text. I know that text is available in screens which are open, but Alas!, there is no common search option to search in all the windows in all the screens.
 
 I wrote this utility to solve this problem.
 
