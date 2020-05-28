@@ -25,12 +25,7 @@ Go to root folder, find requirements.txt and install the requirements.
 pip install requirements.txt
 ```
 
-I am using pytesseract for OCR. After pip install you'll need to download their binary based on your platform.
-
-```
-https://tesseract-ocr.github.io/tessdoc/Home.html
-https://pypi.org/project/pytesseract/
-```
+I am using pytesseract for OCR. After pip install you'll need to [download](https://tesseract-ocr.github.io/tessdoc/Home.html) their binary based on your platform.
 
 ## Built With
 
