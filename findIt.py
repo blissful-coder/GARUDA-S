@@ -32,7 +32,11 @@ class alien(object):
          self.canvas.pack()
          self.root.attributes('-alpha', 0.4)
          self.fullScreen = True
-         self.root.attributes("-fullscreen", self.fullScreen)
+         # self.root.attributes("-fullscreen", self.fullScreen)
+         w = self.root.winfo_screenwidth()
+         h = self.root.winfo_screenheight()
+         self.root.geometry(f"{w}x{h}+0+0")
+         self.root.attributes('-type', 'dock')
          self.root.bind("<Button-1>", self.drawOnClick)
          self.root.bind('<Escape>',self.toggle_geom)        #Toggle Full Screen
          self.root.bind('<Control-f>',self.toggle_searchbar)   #Show Text Input Window
