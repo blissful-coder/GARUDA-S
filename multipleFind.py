@@ -10,39 +10,6 @@ def create_canvas(x, y, width, height):
     canvas.pack(fill="both", expand=True)
     return root, canvas
 
-def take_screenshot(self,event):
-         targetString = self.textentry.get()
-         print("Searching on Screen: {}".format(targetString))
-         im = grab(bbox=(0, 0, self.screen_width, self.screen_height))
-         im.save('screenshot.png')
-         # windows
-         # pytesseract.pytesseract.tesseract_cmd = r'C:\\Program Files\\Tesseract-OCR\\tesseract'
-         # macos
-         pytesseract.pytesseract.tesseract_cmd = r'/usr/local/bin/tesseract'
-         im = Image.open('screenshot.png')
-         # imb = im.convert('1') # convert image to black and white
-         # imb.save('bandw.png')
-         textStrings = pytesseract.image_to_string(im)
-         textZones = pytesseract.image_to_data(im, output_type=Output.DICT)
-         # print(textZones)
-         with open('ocr.txt', 'w') as file:
-            file.write(textStrings)
-         with open('ocrboxes.txt', 'w') as fp:
-            fp.write('\n'.join('%s' % x for x in textZones))
-         n_boxes = len(textZones['level'])
-         count = 0
-         for i in range(n_boxes):
-            (x, y, w, h, confi, text) = (textZones['left'][i], textZones['top'][i], textZones['width'][i], textZones['height'][i], textZones['conf'][i], textZones['text'][i])
-            print(text)
-            if(-1!=int(confi)):
-               if(text.find(targetString) != -1):
-                  print("Here: {} {} {} {} {} {}".format(x,y,w,h,confi,text))
-                  self.zonebox.append(self.canvas.create_rectangle( x,  y-50, x+w, y-50+h, fill="yellow"))
-                  count = count + 1
-         #self.root.attributes('-alpha', 1)
-         self.canvas.update()
-         print("Target {} found {} times.".format(targetString,count))
-
 # Run on macOS
 if __name__ == "__main__":
     main_screen, extended_screen = None, None
